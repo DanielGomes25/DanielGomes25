@@ -1,8 +1,8 @@
 # Sejam bem vindos ao meu perfil 
 
-Meu nome é Daniel Gomes de Paula e sempre fui apaxonado por tecnologia.
+Meu nome é Daniel Gomes de Paula e sempre fui apaixonado por tecnologia.
 
-Atualmente estou em transição de carreira, sou aluno da trybe em busca de me tornar uma pessoa desenvolvedora.
+Atualmente estou em transição de carreira, sou aluno/estudante da Trybe em busca de me tornar uma pessoa desenvolvedora.
 
 <br>
 
