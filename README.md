@@ -20,8 +20,8 @@ Ao longo da minha carreira. Inicialmente, atuei na indústria metalúrgica, dese
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Typescript](https://icons8.com.br/icon/uJM6fQYqDaZK/typescript)
-![Redux](https://icons8.com.br/icon/jD-fJzVguBmw/redux)
+![Typescript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />)
+![Redux](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />)
 
 
 
