@@ -11,6 +11,10 @@ Ao longo da minha carreira. Inicialmente, atuei na indústria metalúrgica, dese
 <h3 align="left">Vamos conectar:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-gomes-dev25/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/daniel-gomes-dev25/"/></a>
+
+<a href="mailto:daniel.gomes.9@hotmail.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="daniel.gomes.9@hotmail.com"/></a>
+
+
 </p>
 
 
