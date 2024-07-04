@@ -1,8 +1,5 @@
 # Sejam bem vindos ao meu perfil 
 
-Ao longo da minha carreira. Inicialmente, atuei na indústria metalúrgica, desenvolvendo habilidades como mecânico de usinagem. Durante esse período, aprendi a lidar com desafios técnicos complexos.
-Além disso, tive a oportunidade de me envolver com a gestão de estoques e e-commerce, o que me proporcionou um conhecimento valioso sobre a logística e operações de negócios. Essa experiência me permitiu entender a importância da eficiência e organização no ambiente de trabalho.
-Atualmente em transição de carreira e estou Motivado e comprometido com o aprendizado contínuo na área de tecnologia, habilidades em solução de problemas, lógica de programação e conhecimento em linguagens como HTML, CSS, JavaScript e frameworks populares como React e Node.js. Buscando novas oportunidades para aplicar os conhecimentos.
 <br>
 
 
